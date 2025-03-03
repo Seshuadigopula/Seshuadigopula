@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+# Hello World!, I'm Seshu Kumar....👋🏼:
 I am a full stack web developer currently pursuing my graduation at<br>Lovely Professional University.<br><br>🔭 I’m currently working on My Portfolio<br>👯 I’m looking to collaborate on a ChatBot<br>🌱 I’m currently learning Laravel<br>
 
 
@@ -23,5 +24,8 @@ I am a full stack web developer currently pursuing my graduation at<br>Lovely Pr
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Seshuadigopula&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
