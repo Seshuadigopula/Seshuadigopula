@@ -1,5 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-# Hello World!, I'm Seshu Kumar....👋🏼:
+<img src="banner_github.png" alt="GitHub Banner" width="100%" height="75%"/>
 I am a full stack web developer currently pursuing my graduation at<br>Lovely Professional University.<br><br>🔭 I’m currently working on My Portfolio<br>👯 I’m looking to collaborate on a ChatBot<br>🌱 I’m currently learning Laravel<br>
 
 
